@@ -1,3 +1,5 @@
+# O(nk) time complexity but with a PRECISE answer; the leetcode wants an algorithm with O(n(log(max - min))) time complexity, but at the sacrifice of preciseness
+
 from unittest import (TestCase, main)
 
 
